@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Fellow",
+    "organisation": "NxtWave",
+    "startDate": "June, 2023",
+    "endDate": "Present",
+    "experiences": ["Developing skills in full-stack development, focusing on practical, hands-on projects, learning new technologies.", "Worked on multiple real-world projects, implementing responsive and optimized web applications.", "Focused on building scalable, maintainable, and performant web applications with best coding practices."],
+    "imageSrc": "history/OIP.jpeg"
+  },
+  {
+    "role": "Electronics and Telecommunication Engineer",
+    "organisation": "BAMU",
+    "startDate": "June, 2016",
+    "endDate": "May, 2019",
+    "experiences": ["Developed a strong foundation in signal processing, embedded systems, and communication technologies.", "Hands-on experience with microcontrollers, VLSI design, and digital communications.", "Led and participated in academic projects focused on designing and implementing innovative solutions in electronics and telecommunication."],
+    "imageSrc": "history/ece.png"
+  }
+]

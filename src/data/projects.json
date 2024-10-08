@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Tourism Website",
+    "imageSrc": "projects/project.png",
+    "description": "Developed tourism website where users can browse through the content, videos and images of popular destinations",
+    "skills": ["HTML", "CSS", "Bootstrap"],
+    "demo": "https://komalhk.github.io/Tourism-Website/",
+    "source": "https://github.com/komalhk/Tourism-Website.git"
+  },
+  {
+    "title": "Food Munch",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a responsive website for Food Store where users can see a list of food items, detailed information about food item.",
+    "skills": ["HTML", "CSS", "Bootstrap"],
+    "demo": "https://komalhk.github.io/FoodMunchClone/",
+    "source": "https://github.com/komalhk/FoodMunchClone.git"
+  },
+  {
+    "title": "Todos Application",
+    "imageSrc": "projects/project.png",
+    "description": "A comprehensive todo management tool, user friendly interface with CRUD capabilities, crafted to simplify task management.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://komalhk.github.io/Todos_Application/",
+    "source": "https://github.com/komalhk/Todos_Application.git"
+  },
+  {
+    "title": "Jobby App",
+    "imageSrc": "projects/project.png",
+    "description": "The Jobby App is a job search application that allows users to explore job opportunities by navigating through various routes.",
+    "skills": ["HTML", "CSS", "React"],
+    "demo": "https://komalhk.ccbp.tech",
+    "source": "https://github.com/komalhk/jobby_app.git"
+  },
+  {
+    "title": "Nxt Trendz - Cart Features",
+    "imageSrc": "projects/project.png",
+    "description": "The Nxt Trendz - Cart Features project is an e-commerce application focusing on implementing cart functionalities.",
+    "skills": ["HTML", "CSS", "React"],
+    "demo": "https://komalhk.ccbp.tech",
+    "source": "https://github.com/komalhk/nxttrendz124.git"
+  },
+  {
+    "title": "GitHub Profile Visualizer",
+    "imageSrc": "projects/project.png",
+    "description": "The GitHub Profile Visualizer project is a React application that allows users to search for GitHub profiles and view their repositories.",
+    "skills": ["HTML", "CSS", "React"],
+    "demo": "https://komalbh.ccbp.tech",
+    "source": "https://github.com/komalhk/Git-Clone.git"
+  }
+]
